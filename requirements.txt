@@ -1,0 +1,6 @@
+openai
+pandas
+fastapi
+uvicorn
+google-generativeai
+dotenvs

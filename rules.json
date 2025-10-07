@@ -1,0 +1,10 @@
+{
+    "LLU": [
+        "Task should be less than 3 hours (relaxation up to 4.5 hours)",
+        "Time of logs should be filled at end of the week max"
+    ],
+    "LLG": [
+        "Description should include short detail, ticket link or PR link",
+        "Check-ins (1:1) whether with TM/TLs or Client, should go within one’s project, not in 'Others'"
+    ]
+}

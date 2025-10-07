@@ -1,0 +1,113 @@
+TaskLabel,CompetencyRoles,DecimalHours,TaskDescription,gpt-4,gpt-4_reason,gpt-4o,gpt-4o_reason,gpt-3.5-turbo,gpt-3.5-turbo_reason,gpt-3.5-turbo-1106,gpt-3.5-turbo-1106_reason,gpt-4-0613,gpt-4-0613_reason
+Coding,Software Engineer,2.0,"ALW-11668
+
+- integrated updateAssessment API, worked on getting the dirty fields.
+- send only dirtyfields in case of updateAssessment, disabled input for grade and subject when form is in edit mode.
+- verified on local.",fail,No links or references related to the task.,fail,Description lacks references or links related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references related to the task.
+Standup,Software Engineer,1.0,Stand-up and Team discussions,,,,,,,,,,
+Other,Marketing,0.5,Feedback Doc for Experts Form,,,,,,,,,,
+Meeting,Software Engineer,0.5,BSKYE-5860: Sync with Aqdas on ISOS status issues and its flow. + Desk check on local.,fail,No links or references related to the task.,fail,Lacks links or references related to the task.,fail,"Lacks details, unclear about the tasks related to syncing with Aqdas and desk check on local.",fail,Description lacks context and specific details about the sync with Aqdas and the desk check on local.,fail,No links or references related to the task.
+Standup,Software Engineer,0.5,Team Standup,,,,,,,,,,
+Code Review,Software Engineer,0.5,New competency dashboard code review (my growth chart),fail,Description lacks links or references related to the task.,fail,Lacks links or references related to the task.,fail,Lacks context and details related to the competency dashboard code review.,fail,Description lacks context and specific details about the competency dashboard code review.,fail,No links or references related to the task.
+Debugging,Software Engineer,1.0,P0#MID-32800: Provided Update on QA issues.,fail,No links or references related to the task.,fail,Task description lacks links or references.,pass,Complete description.,pass,Complete description.,fail,No links or references included in the description.
+Course Authoring,Course Author,0.25,Chapter 8: Text updated in teacher page + verifying with book.,fail,No links or references provided in the task.,fail,Description lacks references or links related to the task.,fail,"Lacks details and context, no mention of specific changes or verification process.",fail,Lacks clear context and references related to the task.,fail,No links or references included in the task.
+Meeting,Frontend - HTML,0.5,Rumi team sync,,,,,,,,,,
+Standup,Dev Ops,0.25,DevOps Daily Standup,,,,,,,,,,
+Debugging,Data Engineer,2.0,"Debugged Biotime record for amna maqbool, did RCA on it. discussed interesting findings with irfan",fail,No links or references related to the task.,fail,Missing links or references related to the task.,fail,Lacks specific details and references for RCA and findings discussion.,pass,Complete description.,fail,No links or references related to the task.
+Testing,QA,2.0,IDEA Testing,,,,,,,,,,
+Coding,Software Engineer,2.0,IDEA-8773 Backend,,,,,,,,,,
+Testing,QA,0.5,"Verified ""1757 [Bug][P1] - In Extraction Criteria → Filter → Select Field dropdown, when a user changes the selected field, the corresponding filter in the query box gets appended instead of replacing the previous one."" on QA",fail,No links or references included in the task.,fail,Description lacks links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references included in the description.
+Check-in,UI/UX,0.5,AlsonAI design discussion,,,,,,,,,,
+Standup,Dev Ops,0.5,DevOps FreeFire Standup,,,,,,,,,,
+Coding,Software Engineer,2.0,PROD-3295: Field Tracker for Programs: Implementation: Propagate Course Changes to Program,fail,No links or references included in the description.,fail,Task lacks links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references related to the task.
+Meeting,Software Engineer,0.5,Internal EP Standup,,,,,,,,,,
+Meeting,Software Engineer,1.08,Huddle with bilal.ahmad02 on lesson chapter creation issue and fix,fail,Task description doesn't include any links or references related to the task.,fail,Description lacks context and does not include links or references.,fail,Description lacks details and context related to the issue discussed and the resolution steps.,fail,Description lacks context and specific details about the issue and resolution.,fail,No links or references related to the task.
+Documentation,Software Engineer,0.17,Sent the invite to cell-soft for tuesday 8:30 am tomorrow.,fail,No links or references related to the task.,fail,Description lacks context and no links or references are provided.,fail,Lacks context and details like purpose or content of the invite.,fail,Description is unclear and lacks context or details about the invite and its purpose.,fail,Description lacks links or references related to the task.
+User Testing,POD,0.33,Audit of probation sheet,,,,,,,,,,
+Course Authoring,Course Author,0.58,"G4 C9: Dua, Islamic nukta nazar slides updated.",fail,No links or references provided in the description.,fail,Description lacks context and references.,fail,"Description lacks clarity and context, no mention of specific updates or relevance to the task.",fail,Description lacks context and related links or references.,fail,Description lacks links or references related to the task.
+Retro,Software Engineer,1.0,Sprint retro meeting,,,,,,,,,,
+Standup,Course Author,0.5,Daily sync,,,,,,,,,,
+Standup,"Software Engineer, ML Engineer",0.25,Data Science Scrum,,,,,,,,,,
+Coding,Software Engineer,1.0,review compliance for https://arbisoft.atlassian.net/browse/FA-2747,,,,,,,,,,
+Standup,QA,0.5,Charge Code [Z8107430] - [Reporting & Impact (Build)][DOMOAcademy Data Team Daily Scrum Meeting,fail,Description lacks links or references.,fail,Description lacks links or references related to the task.,fail,"Description lacks details and context, missing important information like purpose or outcome.",fail,Description lacks context and does not include clear task details or references.,fail,No links or references included.
+Coding,Software Engineer,0.5,HealthKit steps fetching process code clean,fail,Description lacks context and references related to the task.,fail,Lacks context and does not include links or references.,fail,Lacks context and specific details about the HealthKit steps fetching process.,fail,Description lacks context and specific details about the HealthKit steps fetching process.,fail,Description lacks context and does not include any links or references.
+Testing,QA,0.67,Title and info icon alignment and scrolling issue bug.,fail,Description lacks context and references.,fail,Description lacks context and references.,pass,Complete description.,fail,Description lacks context and does not include relevant links or references.,fail,Description lacks context and related links or references.
+User Testing,Software Engineer,1.58,"psb - results, supervisor tags, nationals registration, receipts",fail,Description lacks context and references.,fail,Description lacks context and links or references.,fail,"Description lacks context and does not include any details or links related to 'psb - results, supervisor tags, nationals registration, receipts'.",fail,Description lacks context and clear details.,fail,Description lacks context and references.
+Reporting/Analysis,QA,0.42,Share the performance testing based flows with naveed saleem over the slack,fail,No links or references included in the description.,fail,Lacks context and references for performance testing flows.,fail,Lacks specific details and references for performance testing flows.,fail,Lacks context and doesn't include performance testing flows or related links.,fail,No links or references included in the task.
+Documentation,IT,0.5,IP Assignment - Main Office - Lahore,fail,No links or references included.,fail,Description lacks context and references.,pass,Complete description.,pass,Complete description.,fail,No links or references included in the task.
+Standup,Software Engineer,0.5,edX Mobile Standup,,,,,,,,,,
+Team Discussion,QA,0.43,Huddle with hamza.zahid related to Skygen ticket; BOT-680,fail,No links or references related to the task.,fail,Description lacks context and does not include links or references.,pass,Complete description.,pass,Complete description.,fail,Missing links or references related to the task.
+Team Discussion,Software Engineer,0.5,Stage Release discussion,,,,,,,,,,
+Coding,Software Engineer,3.0,Added categories to glossary. Asana Ticket: https://app.asana.com/1/1201629421181554/project/1210236830519841/task/1210237072713230?focus=true,pass,Complete description.,pass,Complete description.,pass,Complete description.,pass,Complete description.,pass,Complete description.
+Standup,QA,0.5,Workstream Standup,,,,,,,,,,
+Testing,QA,2.0,Retesting of Bug Reports,,,,,,,,,,
+Standup,Software Engineer,0.25,Landit Arbisoft Standup,,,,,,,,,,
+Meeting,POD,1.0,Fresh Hiring & Hiresprint 2025: CT Test Composition,fail,No links or references provided.,fail,Description lacks context and includes no links or references.,pass,Complete description.,pass,Complete description.,fail,Description lacks specific context and references.
+Meeting,Software Engineer,0.25,Daily Check-in,,,,,,,,,,
+Standup,Project Management,0.5,Workstream Standup,,,,,,,,,,
+Coding,Software Engineer,2.42,[Web-3400] - Handle sentry error for sessions,fail,No links or references related to the task.,fail,Description lacks context and missing links.,pass,Complete description.,pass,Complete description.,fail,Description lacks links or references related to the task.
+Other,Marketing,0.5,Blog Stats Sheet Update,,,,,,,,,,
+Account Management,Accounts,3.0,Prepared document for audit Y-2024,,,,,,,,,,
+Meeting,QA Support,0.25,Discussion on Agoda card fee cases in KR flights,fail,No links or references related to the task included.,fail,No links or references are provided.,pass,Complete description.,pass,Complete description.,fail,No links or references provided in the task.
+Course Authoring,Course Author,1.0,"applied animations, standards and designed slides",fail,Description lacks context and references related to the task.,fail,Task description lacks context and does not include links or references.,pass,Complete description.,fail,"Lacks context and specific details about the applied animations, standards, and designed slides.",fail,No links or references provided in the description.
+Meeting,Software Engineer,0.5,SchoolGram Dev Team Standup,,,,,,,,,,
+Coding,Software Engineer,2.0,Add unittests for email methods and complete it's coverage (Course Deadline Email),fail,No links or references provided in the task.,fail,Description lacks links or references.,pass,Complete description.,fail,Lacks context and specific details about email methods and coverage.,fail,No links or references provided in the description.
+Standup,QA,0.33,BlockSkye Standup Arbisoft,,,,,,,,,,
+Coding,Software Engineer,0.25,Submit Handler (fix): aud not found issue fixed,fail,Missing links or references related to the task.,fail,Lacks context and references or links related to the task.,pass,Complete description.,pass,Complete description.,fail,Description lacks links or references related to the task.
+Meeting,QA,0.5,KPP Weekly - Weekly meeting with KPP team to discuss team's progress on the ongoing tasks,fail,No links or references related to the task.,fail,No links or references included.,pass,Complete description.,fail,Description lacks context and doesn't include details about the progress or outcomes of the meeting.,fail,No links or references related to the task.
+Debugging,Software Engineer,2.5,"1  P2s
+3 P3s",,,,,,,,,,
+Meeting,Software Engineer,0.58,Attended mobile edX Technical Check In Call,fail,No links or references included in the task.,fail,Description lacks links or references and context.,pass,Complete description.,pass,Complete description.,fail,No links or references related to the task.
+Meeting,QA,0.5,Weekly Release Follow up,,,,,,,,,,
+Meeting,Software Engineer,1.17,with Ashar,,,,,,,,,,
+Project Planning,Project Management,0.5,board review and updates,,,,,,,,,,
+Project Estimations,ML Engineer,1.5,Estimate discussion - 2,,,,,,,,,,
+Team Management,Software Engineer,2.25,"morning, PRs, LTR",,,,,,,,,,
+Debugging,QA,2.0,"Bugs; BOT-606, BOT-609 reported",,,,,,,,,,
+Meeting,Software Engineer,1.0,OKR Meeting,,,,,,,,,,
+Coordination,Project Management,0.33,Followup on prod deployment,,,,,,,,,,
+Check-in,UI/UX,0.5,Day Plan + Communications,,,,,,,,,,
+Documentation,QA,2.0,Tooltips text documentation created after discussion with sarmad: https://arbisoft.atlassian.net/browse/FA-2930,pass,Complete description.,pass,Complete description.,pass,Complete description.,pass,Complete description.,pass,Complete description.
+Standup,Software Engineer,0.58,Textalize standup,,,,,,,,,,
+Standup,Software Engineer,0.25,Internal,,,,,,,,,,
+Account Management,Key Account Management,1.5,"Kayak - Hubspot updates, Arbisoft capabilities pdf",fail,Description lacks context and references.,fail,Description lacks context and references.,fail,Description lacks clarity and context. It does not include details or links related to Kayak-Hubspot updates or Arbisoft capabilities PDF.,fail,Description lacks context and does not provide clear information about the task.,fail,Description lacks detail and no links or references.
+Meeting,Software Engineer,0.5,Client Meeting,,,,,,,,,,
+Coding,Software Engineer,3.0,POC for program search and add to cart,fail,Description lacks context and references.,fail,Description lacks context and references.,pass,Complete description.,fail,Description does not provide clear context or details about the POC for program search and add to cart.,fail,Description lacks links or references.
+Coding,Software Engineer,1.5,Looked into the sftp configs and updated those in AWS,fail,No references or links related to the task.,fail,Lacks links or references.,pass,Complete description.,pass,Complete description.,fail,No links or references provided in the task.
+Meeting,Software Engineer,1.0,Communication Program - Snowtown Level 1,fail,Description lacks links or references related to the task.,fail,Description lacks context and references.,pass,Complete description.,fail,Description lacks clarity and context related to the task.,fail,Description lacks context and references.
+Testing,QA,1.5,SQHF,,,,,,,,,,
+Standup,Software Engineer,0.5,"Worked On: People Partner is unable to publish external/client form due to missing Self Review for External Form
+Working On:   Add pitched and primary checkbox showing on admin side and in exportable sheets",fail,No links or references related to the task.,fail,Description lacks links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references included in the description.
+Technical Support,Dev Ops,0.83,Data aggregation using shell commands for POD against given emails (Huddle with Shehram Tahir),fail,No links or references included in the description.,fail,Lacks links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references included.
+Other,Software Engineer,0.67,"Misc, Slack etc",,,,,,,,,,
+Meeting,Software Engineer,1.0,Internal E2E Test Scheduling Strategy Discussion,fail,Description lacks links or references related to the task.,fail,Lacks links or references related to the task.,pass,Complete description.,fail,Description lacks context and specific details about the discussion or decisions made.,fail,No links or references included.
+Audit/Compliance,QA,3.0,"Audited Main quote list page for accessibility and functionality. Identified and documented all issues in the designated Google Sheet. Captured relevant screenshots and screen recordings as evidence, which were organized and uploaded to Google Drive for reference.",fail,Missing links or references related to the task.,fail,Description lacks links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references related to the task.
+Testing,Project Management,1.25,RRP - Docker setup and project setup / Testing Team Champ reward,fail,Lacks links or references related to the task.,fail,Lacks context and necessary links or references.,fail,"Description lacks clarity and context, missing details about Docker setup and project setup.",fail,"Lacks clear description and context. No specific details provided regarding the Docker setup, project setup, or Testing Team Champ reward.",fail,Description lacks links or references related to the task.
+Documentation,QA,0.5,Added tcs,,,,,,,,,,
+Standup,Software Engineer,0.5,Services Teams - Daily Standup,,,,,,,,,,
+Technical Support,IT,2.0,"Overseeing slack and emails for support, Logs filling, tickets closing.",fail,Task description does not include any links or references.,fail,Lacks links or references related to the task.,fail,"Description lacks clarity and specific details about overseeing slack, emails for support, logs filling, and tickets closing.",fail,Description lacks context and does not include relevant links or references.,fail,No links or references provided in the description.
+Coding,Software Engineer,1.5,GEICO Integration updates,,,,,,,,,,
+Documentation,QA,0.75,"Documentation on Homepage remaining modules
+- MY Reminder 
+- POD Reminders
+-Add a Note
+- Edit a Note
+- Delete a Note",fail,Missing links or references related to the task.,fail,Description lacks context and references.,fail,Lacks clarity and specific details about each module. Missing links or references.,pass,Complete description.,fail,No links or references provided in the description.
+Check-in,People Partner,0.5,Check In - Dawood (Maiden Century),fail,Task description lacks context and does not include any links or references.,fail,Description lacks context and references or links.,fail,Description lacks context and relevant details.,fail,Description lacks context and does not provide clear information about the task.,fail,Description lacks context and does not include any links or references related to the task.
+Team Discussion,Product Management,0.18,Huddle with hassaan.ahmad about bugs,,,,,,,,,,
+Marketing Campaigns,Growth Marketing - Social Media,1.0,Wrote SMP content For Arbisoft tiktok,fail,Description lacks context and does not include any links or references.,fail,Lacks context and references or links.,fail,Lacks context and specific details about the SMP content written for Arbisoft TikTok.,fail,Description lacks context and specific details about the SMP content written for Arbisoft TikTok.,fail,Description lacks context and references related to the task.
+Meeting,UI/UX,1.0,Foundations of UX – DFP Class 1,fail,No links or references related to the task.,fail,Lacks context and references or links related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references provided in description.
+Debugging,Software Engineer,3.0,Fixing and testing of issues arised due to merging of other code with best times,fail,Description lacks links or references related to the task.,fail,Description lacks links or references related to the task.,fail,Description lacks details on specific issues and context of merging.,fail,Lacks context and references related to the task.,fail,No links or references included in the description.
+R&D,Dev Ops,1.33,cursor AI study and practise,,,,,,,,,,
+Standup,Software Automation Engineer,0.33,BlockSkye Standup Arbisoft,,,,,,,,,,
+Coding,Software Engineer,2.5,"Zainab reported an issue on video module comments, resolve the issue and add it in PR. verify it on Dev server as well",fail,No links or references included.,fail,Missing links or references related to the task.,fail,Lacks details on how the issue was resolved and verification steps on Dev server.,pass,Complete description.,fail,No links or references related to the task.
+Coding,Software Engineer,0.42,"PR changes - calendly - TXT-467 
+PR changes - Past meeting screen revamp backend minor change",fail,No links or references related to the task.,fail,Description lacks context and does not include links or references.,fail,"Lacks details and context, no clear explanation of changes or tasks performed.",pass,Complete description.,fail,No links or references related to the task.
+Reporting/Analysis,Software Engineer,0.25,Project Monitoring DataDog-Sentry,,,,,,,,,,
+Debugging,Software Engineer,1.5,"coach: Fixed proxy issue and  working on pdp rewrite, now detail request is changed to api and colors are getting in same request",fail,No links or references related to the task.,fail,Missing links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references related to the task.
+Standup,Software Engineer,2.0,Sprint planning and review new sprint tasks,fail,No links or references related to the task.,fail,Description lacks context and references.,fail,Description lacks specificity and does not provide enough context about the sprint planning and review tasks.,fail,Description is too vague and lacks specific details or references to sprint tasks.,fail,No links or references related to task.
+Coding,Software Engineer,0.25,Fix padding on close icon in filters drawer #7175,fail,No links or references related to the task.,fail,Lacks links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references related to the task are included.
+Testing,QA,3.0,Report testing,,,,,,,,,,
+Deployment,Dev Ops,2.0,Updated the domain in the Git repository and built the Jenkins pipelines for the load test environment,fail,No links or references provided in the description.,fail,No links or references related to the task.,pass,Complete description.,pass,Complete description.,fail,No links or references related to the task provided.
+Team Engagement,QA,2.0,Check Kayak Slack channels and emails,fail,Description lacks context and does not include any links or references.,fail,The description lacks context and does not include links or references.,fail,Lacks specific details or context. Should mention the purpose or outcome of checking Kayak Slack channels and emails.,fail,Description lacks context and doesn't specify the purpose or outcome of checking Kayak Slack channels and emails.,fail,Description lacks context and does not include any links or references related to the task.
+Check-in,Software Engineer,0.5,Check-in [Shahid x Haroon],,,,,,,,,,
