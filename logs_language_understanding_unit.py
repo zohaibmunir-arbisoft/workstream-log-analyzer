@@ -14,8 +14,6 @@ def check_description_len(log_description):
     and then return fail if it's less than 5 words"""
 
     description_words = log_description.split(' ')
-    print(len(description_words))
-
     if len(description_words) > 5:
         return True
     else:
