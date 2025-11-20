@@ -21,8 +21,8 @@ async def validate_logs(logs: Logs):
     result_rows = []
     remaining_logs = []
     for row in logs.logs:
-        if llu.check_hours_per_task(row.DecimalHours):
-            if llu.check_description_len(row.TaskDescription):
+        if llu.check_hours_per_task(row.decimal_hours):
+            if llu.check_description_len(row.task_description):
                 remaining_logs.append(row)
             else:
                 status = 'fail'

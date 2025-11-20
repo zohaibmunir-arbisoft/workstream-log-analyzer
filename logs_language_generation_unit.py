@@ -19,7 +19,6 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def gpt_check(logs):
 
     prompt = get_prompt(logs=logs)
-
     try:
         response = client.chat.completions.parse(
             model="gpt-4.1-mini",  # or "gpt-3.5-turbo"
